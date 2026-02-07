@@ -1,2 +1,2 @@
-# the-Wallace-investmentgroup
+# thewallaceinvestmentgroup
 The Wallace Investment Group Website
